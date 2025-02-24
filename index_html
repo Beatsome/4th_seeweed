@@ -17,8 +17,8 @@
     <div class="gallery">
         <!-- 在这里添加图片和描述 -->
         <div class="gallery-item">
-            <img src="Slide18.png" alt="紫菜 / 海帶">
-            <div class="caption">紫菜 / 海帶</div>
+            <img src="Slide18.png" alt="紫菜/海帶">
+            <div class="caption">紫菜/海帶</div>
         </div>
         <div class="gallery-item">
             <img src="Slide19.png" alt="即食紫菜">
